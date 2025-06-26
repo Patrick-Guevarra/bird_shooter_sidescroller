@@ -26,3 +26,10 @@ Build and run the game.
 
 Make sure the image and sound files (like bird.png, enemy.png, and .wav sounds) are in, otherwise the game might crash or not load visuals.
 
+
+About this project:
+This game was originally created as a class project for a computer science course. The project starter code included some pre-written files like DirectX.cpp, DirectX.h, and WinMain.cpp to handle rendering, input, and window setup using DirectX 11.
+
+I was responsible for building the gameplay system from scratch, which is fully implemented in game.cpp. That includes the enemy logic, player movement, shooting, boss mechanics, score tracking, and more.
+
+While I made small tweaks to the other files to support my game logic, the main gameplay was designed and coded independently.
